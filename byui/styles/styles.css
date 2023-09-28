@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;500&display=swap');
 
+.main-para {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+#active {
+  background-color: white;
+  color: steelblue;
+}
 body{
     text-align: center;
     background-color: lavender;
@@ -27,3 +35,4 @@ h1 {
     background-color: steelblue;
     color: white;
   }
+
