@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+.conimage{
+    background-color: darkgrey;
+    text-align: center;
+    max-width: 1280px;
+}
+
+.conimage img{
+    width: 240px;
+    border: 10px solid #484848;
+    margin: 2em;
+    border-radius: 50%;
+}
