@@ -213,7 +213,41 @@ main section img {
     box-sizing: border-box;
 }
 
+.river-page-header {
+    color: #F1FAEE;
+    background-color: #457B9D;
+    text-align: center;
+    font-size: 3rem;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 30px;
+    width: 85%;
+    height: 60px;
+}
+.rivers-main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.river {
+    width: 85%;
+    background-color: #A8DADC;
+    margin: 0 auto;
+    border: 20px thick blue;
+}
+.river h1 {
 
+}
+.river p {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.river img {
+    grid-column: 2/3;
+    grid-row: 1/3;
+    float: right;
+    width: 20%;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
