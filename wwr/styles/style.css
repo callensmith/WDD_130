@@ -224,6 +224,7 @@ main section img {
     padding: 30px;
     width: 85%;
     height: 60px;
+    border-radius: 15px;
 }
 .rivers-main {
     max-width: 600px;
@@ -233,14 +234,15 @@ main section img {
     width: 85%;
     background-color: #A8DADC;
     margin: 0 auto;
-    border: 20px thick blue;
+    margin-top: 3rem;
+    border: 5px solid #457B9D;
+    border-radius: 10px;
 }
-.river h1 {
 
-}
 .river p {
     margin-left: 1rem;
     margin-right: 1rem;
+    text-align: left;
 }
 .river img {
     grid-column: 2/3;
